@@ -1,0 +1,28 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+.bobo{
+    color: aqua;
+    border:  2px #ffffff dotted;
+    border-radius: 22px;
+}
+body {
+    background: #213243;
+
+}
+h1 {
+    color: #ffffff;
+}
+h3 {
+    color: aliceblue;
+}
+a {
+    color: coral;
+}
+#classement :visited {
+    color: #3A721A;
+}
+a:hover {
+    color: #d400ff; /* Remplacez #0000ff par la couleur de votre choix. */
+  }
